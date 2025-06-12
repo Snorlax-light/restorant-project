@@ -1,4 +1,4 @@
-# restorant-project
+# restaurant-project
 
 ## Project setup
 ```
