@@ -15,12 +15,12 @@ const routes = [
     {
         name: 'signup',
         component: SignUp,
-        path: '/signup'
+        path: '/'
     },
     {
-        name: 'Login',
+        name: 'login',
         component: LoginPage,
-        path: '/Login'
+        path: '/login'
     }
 ];
 

@@ -10,7 +10,7 @@
     mounted(){
         let user = localStorage.getItem("user-info");
         if(!user){
-            this.$router.push('/SignUp');
+            this.$router.push('/');
         }
     }
 
