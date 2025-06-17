@@ -42,7 +42,7 @@ export default {
 
             console.warn(result);
             if(result.status === 201){
-            this.$router.push('/login');
+            this.$router.push('/');
             }   
         }
     },
