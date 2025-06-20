@@ -1,7 +1,7 @@
 <template>
     <div>
         <HeaderPage />
-        <h1>Hello User, Welcome to the Add Page</h1>
+        <h1>Hello {{name}}, Welcome to the Add Page</h1>
     </div>
 
 </template>
